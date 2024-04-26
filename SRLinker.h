@@ -11,26 +11,6 @@ extern char continueDeviceInfos[256];
 extern bool defaultP;
 
 
-// MinGW_Command Home:
-// gcc -o C:\Users\maste\Desktop\A_Studien\SRLinker_Windows\SRLinker.exe C:\Users\maste\Desktop\A_Studien\SRLinker_Windows\main.c C:\Users\maste\Desktop\A_Studien\SRLinker_Windows\Root.c C:\Users\maste\Desktop\A_Studien\SRLinker_Windows\Actions\Backup.c C:\Users\maste\Desktop\A_Studien\SRLinker_Windows\Actions\DeviceInfos.c C:\Users\maste\Desktop\A_Studien\SRLinker_Windows\Actions\AuxiliaryFunctions.c C:\Users\maste\Desktop\A_Studien\SRLinker_Windows\Logo\Logo.c
-
-
-// Home: Path to the Android Platform Tools
-// C:\Users\maste\AppData\Local\Android\Sdk\platform-tools
-
-
-
-
-// MinGW_Command Laptop:
-// gcc -o C:\Users\svenh\Desktop\A_Studien\SRLinker\SRLinker.exe C:\Users\svenh\Desktop\A_Studien\SRLinker\main.c C:\Users\svenh\Desktop\A_Studien\SRLinker\Root.c C:\Users\svenh\Desktop\A_Studien\SRLinker\Actions\Backup.c
-
-
-// Laptop: Path to the Android Platform Tools
-// C:\Users\svenh\AppData\Local\Android\Sdk\platform-tools
-
-
-
-
 // -------------------------------------- DEFINE BOLD --------------------------------------
 
 #define ANSI_BOLD "\033[1m"
