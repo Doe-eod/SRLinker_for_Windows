@@ -1,0 +1,43 @@
+
+
+
+
+
+# Ignore the reports of processes
+/SRLinker_Prozesse
+
+
+# Ignore the network logs
+SRLinker_Netzwerk
+
+
+# Ignore the device infos
+/SRLinker_DeviceInfos
+
+
+# Ignore the logfiles
+/SRLinker_Logs
+
+
+# Ignore the generated screenrecords
+/SRLinker_Screenrecords
+
+
+# Ignore the screenshots
+/SRLinker_Screenshots
+
+
+# Ignore reports from android monkey (apps)
+/SRLinker_Monkey_App
+
+
+# Ignore reports from android monkey (device)
+/SRLinker_Monkey_System
+
+
+# Ignore the Backups
+/SRLinker_Backups
+
+
+# Ignore the Bugreports
+*.zip
